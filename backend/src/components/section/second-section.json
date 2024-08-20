@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_section_second_sections",
+  "info": {
+    "displayName": "SecondSection",
+    "icon": "grid"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
